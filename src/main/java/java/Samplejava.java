@@ -6,11 +6,11 @@ public class Samplejava {
 	{
 		if(value.contains("Automation"))
 		{
-			System.out.println("we are software testers");
+			System.out.println("we are software testers in jkt");
 		}
 		else
 		{
-			System.out.println("we are manual testers");
+			System.out.println("we are manual testers in jkt");
 		
 		}
 	}
